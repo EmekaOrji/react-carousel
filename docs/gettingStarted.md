@@ -4,13 +4,13 @@ There are some great carousels (like slick) that do not have real React implemen
 ## Installation
 Install the library:
 ```
-$ npm i @brainhubeu/react-carousel
+$ npm i react-carousel-vertical
 ```
 
 And then you can import Carousel and Dots components:
 ```
-import Carousel, { Dots } from '@brainhubeu/react-carousel';
-import '@brainhubeu/react-carousel/lib/style.css';
+import Carousel, { Dots } from 'react-carousel-vertical';
+import 'react-carousel-vertical/lib/style.css';
 ```
 
 You can find usage examples [here](/docs/examples/simpleUsage/)
